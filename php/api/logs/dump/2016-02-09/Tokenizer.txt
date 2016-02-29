@@ -1,0 +1,2 @@
+[Tue Feb 09 13:09:49 2016]	[client: 58.69.142.44] [file: core.class.php] - [Device ID: 004A717D-1E6D-44BE-975E-D4210A71F15B, Platform: ios, PUSH ID: 16bf3e611a6f93459775805b641488be05611da9bdf2d0d1969f0dbbb37afbf5]	 Status: [Existing]
+[Tue Feb 09 13:27:12 2016]	[client: 58.69.142.44] [file: core.class.php] - [Device ID: 9C9F9D43-6E8B-4112-9091-E02CD8F7790E, Platform: ios, PUSH ID: feebe01b0be6634cb6897bf318f13112e668bda67c3d0983c2077f994c09b7e8]	 Status: [Success]

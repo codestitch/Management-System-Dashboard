@@ -1,0 +1,2 @@
+[Sun Jan 24 20:31:17 2016]	[client: 112.208.32.15] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: zirjaye.santos@gmail.com]
+[Sun Jan 24 20:42:44 2016]	[client: 121.54.32.160] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: cyvy24@yahoo.com]

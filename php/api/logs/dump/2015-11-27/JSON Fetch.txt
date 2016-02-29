@@ -1,0 +1,5 @@
+[Fri Nov 27 00:33:09 2015]	[client: 203.81.70.201] [file: json.class.php] - Table: [producttable]	 Status: [Success]
+[Fri Nov 27 00:33:10 2015]	[client: 203.81.70.201] [file: json.class.php] - Table: [loctable]	 Status: [Success]
+[Fri Nov 27 00:33:10 2015]	[client: 203.81.70.201] [file: json.class.php] - Table: [posttable]	 Status: [Success]
+[Fri Nov 27 00:33:11 2015]	[client: 203.81.70.201] [file: json.class.php] - Table: [promotable]	 Status: [Success]
+[Fri Nov 27 00:33:11 2015]	[client: 203.81.70.201] [file: json.class.php] - Table: [settings]	 Status: [Success]

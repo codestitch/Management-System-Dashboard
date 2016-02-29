@@ -1,0 +1,3 @@
+[Sat Jan 30 00:01:03 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: irishalbaran@ymail.com, Activation: fa8f9b570329bb4d0bebd4d1439f6f04]	 Status: [Success]
+[Sat Jan 30 00:17:46 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: eraine.otayde@gmail.com, Activation: d4e3a98297b7019247a8499bdf640d1d]	 Status: [Success]
+[Sat Jan 30 09:52:37 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: jun@appsolutely.ph, Activation: 7feb0757eeccc19c56050625bc68cdb0]	 Status: [Success]

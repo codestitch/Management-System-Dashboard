@@ -1,0 +1,4 @@
+[Thu Dec 10 00:08:03 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: jedachas@icloud.com, Activation: 9f24db6c014eb330ec404cdc47c1fd12]
+[Thu Dec 10 00:08:10 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: jedachas@icloud.com, Activation: 9f24db6c014eb330ec404cdc47c1fd12]
+[Thu Dec 10 15:59:11 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: giapatricia.llesol@novaliches.sti.edu, Activation: 37feee86c47d60216f7b1e209f52fdbd]	 Status: [Success]
+[Thu Dec 10 15:59:32 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: giapatricia.llesol@novaliches.sti.edu, Activation: 37feee86c47d60216f7b1e209f52fdbd]

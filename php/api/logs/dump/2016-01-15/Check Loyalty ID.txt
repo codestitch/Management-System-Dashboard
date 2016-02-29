@@ -1,0 +1,2 @@
+[Fri Jan 15 18:50:26 2016]	[client: 112.208.21.39] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
+[Fri Jan 15 18:53:53 2016]	[client: 112.208.21.39] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]

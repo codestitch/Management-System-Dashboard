@@ -1,0 +1,4 @@
+[Thu Nov 05 00:56:17 2015]	[client: 58.69.142.44] [file: points.class.php] - Transaction ID: [123]	 Branch Code: [22]	 Status: [Success]	 Response : [Valid]
+[Thu Nov 05 00:57:45 2015]	[client: 58.69.142.44] [file: points.class.php] - Transaction ID: [555]	 Branch Code: [22]	 Status: [Success]	 Response : [Valid]
+[Thu Nov 05 01:04:17 2015]	[client: 58.69.142.44] [file: points.class.php] - Transaction ID: [555]	 Branch Code: [22]	 Status: [Success]	 Response : [Invalid]
+[Thu Nov 05 01:04:47 2015]	[client: 58.69.142.44] [file: points.class.php] - Transaction ID: [444]	 Branch Code: [22]	 Status: [Success]	 Response : [Valid]

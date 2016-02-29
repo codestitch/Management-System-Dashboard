@@ -1,0 +1,5 @@
+[Thu Dec 03 17:02:27 2015]	[client: 124.107.17.114] [file: points.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TRANS5E17127OYfb]
+[Thu Dec 03 17:04:11 2015]	[client: 124.107.17.114] [file: points.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TRANSwF17111BRiL]
+[Thu Dec 03 17:05:30 2015]	[client: 124.107.17.114] [file: points.class.php] - Device ID: [f7831a250129f6d7]	 Status: [Success]	 Response : [TRANS6217130HcJU]
+[Thu Dec 03 17:07:13 2015]	[client: 124.107.17.114] [file: points.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TRANSst17113Px1l]
+[Thu Dec 03 17:10:55 2015]	[client: 124.107.17.114] [file: points.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TRANSz517155xgzQ]

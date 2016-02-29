@@ -1,0 +1,2 @@
+[Mon Jan 25 20:12:57 2016]	[client: 180.190.94.3] [file: core.class.php] - E-mail Address: [tanandato@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
+[Mon Jan 25 20:45:26 2016]	[client: 112.198.90.229] [file: core.class.php] - E-mail Address: [robertodichosojr@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

@@ -1,0 +1,2 @@
+[Mon Jan 25 20:15:31 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: tanandato@yahoo.com, Activation: bc602fe70d2b553a1a298ff4fa474971]	 Status: [Success]
+[Mon Jan 25 20:46:19 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: robertodichosojr@gmail.com, Activation: 68085b3e1fd1da2876010b3a18d9ec3b]	 Status: [Success]

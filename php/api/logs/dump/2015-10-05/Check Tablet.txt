@@ -1,0 +1,1 @@
+[Mon Oct 05 17:58:08 2015]	[client: 58.69.142.44] [file: tablet.class.php] - [Message : No active location.]

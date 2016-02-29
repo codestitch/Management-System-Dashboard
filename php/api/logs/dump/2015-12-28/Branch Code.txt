@@ -1,0 +1,4 @@
+[Mon Dec 28 14:41:18 2015]	[client: 180.191.95.26] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]
+[Mon Dec 28 14:41:19 2015]	[client: 180.191.95.26] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]
+[Mon Dec 28 15:05:14 2015]	[client: 180.190.91.125] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]
+[Mon Dec 28 15:13:14 2015]	[client: 180.191.143.100] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]

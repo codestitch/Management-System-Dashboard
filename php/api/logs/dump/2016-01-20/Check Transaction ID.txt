@@ -1,0 +1,3 @@
+[Wed Jan 20 19:37:10 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10034]	 Branch Code: [18]	 Status: [Success]	 Response : [Valid]
+[Wed Jan 20 21:20:42 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10064]	 Branch Code: [18]	 Status: [Success]	 Response : [Valid]
+[Wed Jan 20 21:20:46 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10064]	 Branch Code: [18]	 Status: [Success]	 Response : [Invalid]

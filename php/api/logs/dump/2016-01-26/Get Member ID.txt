@@ -1,0 +1,1 @@
+[Tue Jan 26 20:44:36 2016]	[client: 180.190.91.219] [file: points.class.php] - QR-Code: [APP-L7OU-00185]	 Status: [Success]	 Response : MEMrr201854Lmmyw

@@ -1,0 +1,5 @@
+[Thu Jan 28 19:16:00 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: johnpaul.a.bausa@gmail.com, Activation: 5b72651ef6431487d5344be6fc879d70]	 Status: [Success]
+[Thu Jan 28 19:58:27 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: gonzales.everly@yahoo.com.ph, Activation: f0fa41415e7dda4e05cdc4b07e66bff9]	 Status: [Success]
+[Thu Jan 28 19:59:43 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: gonzales.everly@yahoo.com.ph, Activation: f0fa41415e7dda4e05cdc4b07e66bff9]
+[Thu Jan 28 19:59:57 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: gonzales.everly@yahoo.com.ph, Activation: f0fa41415e7dda4e05cdc4b07e66bff9]
+[Thu Jan 28 20:00:06 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: gonzales.everly@yahoo.com.ph, Activation: f0fa41415e7dda4e05cdc4b07e66bff9]

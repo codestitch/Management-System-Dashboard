@@ -1,0 +1,3 @@
+[Sat Dec 05 00:25:58 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: zangky_poyaoan@yahoo.com, Activation: e2ea7c66eff001ea62f7215eeb2c304b]	 Status: [Success]
+[Sat Dec 05 04:35:34 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: loperasgenelyn@yahoo.com, Activation: a45e392a6689076f78b653ac7ac1cca9]	 Status: [Success]
+[Sat Dec 05 13:19:17 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: bsitrinoma@seafood-island.com, Activation: b5aa5cef5436b08937c639fe2597c2af]	 Status: [Success]

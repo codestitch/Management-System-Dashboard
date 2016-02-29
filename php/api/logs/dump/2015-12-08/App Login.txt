@@ -1,0 +1,6 @@
+[Tue Dec 08 15:04:44 2015]	[client: 180.191.21.10] [file: core.class.php] - [E-Mail: maying.garin@yahoo.com, Password: Ying691992, Device ID: 35CC2487-3B67-4529-9060-E5AE0D4B62F0, Platform: ios]	 Status: [Success]
+[Tue Dec 08 16:44:26 2015]	[client: 112.208.28.61] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: yocamv@gmail.com, Password: Tasky1, Device ID: b19f6597e93ae0d1, Platform: android]
+[Tue Dec 08 16:44:32 2015]	[client: 112.208.28.61] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: yocamv@gmail.com, Password: Tasky1, Device ID: b19f6597e93ae0d1, Platform: android]
+[Tue Dec 08 16:44:38 2015]	[client: 112.208.28.61] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: yocamv@gmail.com, Password: Tasky1, Device ID: b19f6597e93ae0d1, Platform: android]
+[Tue Dec 08 16:44:49 2015]	[client: 112.208.28.61] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: yocamv@gmail.com, Password: Tasky1, Device ID: b19f6597e93ae0d1, Platform: android]
+[Tue Dec 08 16:46:05 2015]	[client: 112.208.28.61] [file: core.class.php] - [E-Mail: yocamv@gmail.com, Password: Tasky1, Device ID: b19f6597e93ae0d1, Platform: android]	 Status: [Success]

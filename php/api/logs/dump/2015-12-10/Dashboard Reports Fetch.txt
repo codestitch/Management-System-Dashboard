@@ -1,0 +1,13 @@
+[Thu Dec 10 10:22:06 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Registration
+[Thu Dec 10 10:22:06 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Download
+[Thu Dec 10 10:22:07 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Age
+[Thu Dec 10 10:22:07 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Gender
+[Thu Dec 10 10:22:16 2015]	[client: 162.144.63.154] [file: reports.class.php] - Spent Yearly Sales
+[Thu Dec 10 10:22:16 2015]	[client: 162.144.63.154] [file: reports.class.php] - SPent Daily Sales
+[Thu Dec 10 10:22:24 2015]	[client: 162.144.63.154] [file: reports.class.php] - Monthly User Birthday
+[Thu Dec 10 11:35:28 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Registration
+[Thu Dec 10 11:35:28 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Download
+[Thu Dec 10 11:35:29 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Age
+[Thu Dec 10 11:35:29 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Gender
+[Thu Dec 10 11:35:38 2015]	[client: 162.144.63.154] [file: reports.class.php] - Spent Yearly Sales
+[Thu Dec 10 11:35:38 2015]	[client: 162.144.63.154] [file: reports.class.php] - SPent Daily Sales

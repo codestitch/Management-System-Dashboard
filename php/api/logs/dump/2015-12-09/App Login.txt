@@ -1,0 +1,2 @@
+[Wed Dec 09 14:12:58 2015]	[client: 112.198.79.11] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: jsrmu@yahoo.com, Password: 3cE1, Device ID: 98207be4d117a5d2, Platform: android]
+[Wed Dec 09 14:13:13 2015]	[client: 112.198.79.11] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: jsrmi@yahoo.com, Password: 3cE1, Device ID: 98207be4d117a5d2, Platform: android]

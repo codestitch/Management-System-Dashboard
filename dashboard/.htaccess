@@ -1,0 +1,2 @@
+ErrorDocument 404 http://58.69.142.44/project/seafood/dashboard/404.php
+ErrorDocument 500 http://58.69.142.44/project/seafood/dashboard/500.php

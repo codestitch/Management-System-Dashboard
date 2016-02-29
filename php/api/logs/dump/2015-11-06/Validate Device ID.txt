@@ -1,0 +1,2 @@
+[Fri Nov 06 11:43:12 2015]	[client: 58.69.142.44] [file: core.class.php] - Device ID: [77c9c0799f9249a9]	 Status: [Success]	 Response : [True]
+[Fri Nov 06 12:01:31 2015]	[client: 58.69.142.44] [file: core.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [True]

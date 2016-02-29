@@ -1,0 +1,7 @@
+[Sat Jan 23 12:44:43 2016]	[client: 121.54.54.250] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: lawrencealmario17@gmail.com, Password: Lawnhez1, Device ID: 2bd36e45b267fa34, Platform: android]
+[Sat Jan 23 12:49:16 2016]	[client: 121.54.54.251] [file: core.class.php] - [E-Mail: lawrencealmario17@gmail.com, Password: Lawnhez1, Device ID: 2bd36e45b267fa34, Platform: android]	 Status: [Success]
+[Sat Jan 23 22:21:54 2016]	[client: 112.198.102.65] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: rgurgelles@gmail.com, Password: milabs032611, Device ID: 48340b62ee6e4b06, Platform: android]
+[Sat Jan 23 22:22:13 2016]	[client: 112.198.102.65] [file: core.class.php] - [E-Mail: rgurgelles@gmail.com, Password: Passw0rd, Device ID: 48340b62ee6e4b06, Platform: android]	 Status: [Success]
+[Sat Jan 23 22:24:03 2016]	[client: 112.198.101.52] [file: core.class.php] - [E-Mail: kennpingoy.mbtc@gmail.com, Password: Marketing47581, Device ID: 57847143375e0f33, Platform: android]	 Status: [Success]
+[Sat Jan 23 22:25:17 2016]	[client: 112.198.101.52] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: bobbymarco@ymail.com, Password: Jemorebmrs1, Device ID: 407A0322-C95B-4A02-8C17-41187BCEAE66, Platform: ios]
+[Sat Jan 23 22:29:19 2016]	[client: 112.198.101.52] [file: core.class.php] - [E-Mail: bobbymarco@ymail.com, Password: Jemorebmrs1, Device ID: 407A0322-C95B-4A02-8C17-41187BCEAE66, Platform: ios]	 Status: [Success]

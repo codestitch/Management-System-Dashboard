@@ -1,0 +1,1 @@
+[Sun Jan 17 17:24:48 2016]	[client: 112.198.98.116] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: ferlapong@yahoo.com]

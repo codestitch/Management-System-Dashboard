@@ -1,0 +1,5 @@
+[Thu Jan 28 19:40:53 2016]	[client: 112.208.32.15] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: alma.sanpedro@yahoo.com]
+[Thu Jan 28 19:41:11 2016]	[client: 112.208.32.15] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: alma.sanpedro@yahoo.com]
+[Thu Jan 28 19:42:23 2016]	[client: 112.208.32.15] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: alma.sanpedro@yahoo.com]
+[Thu Jan 28 19:43:11 2016]	[client: 112.208.32.15] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: alma.sanpedro@yahoo.com]
+[Thu Jan 28 19:52:02 2016]	[client: 119.94.254.226] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: alma.sanpedro@yahoo.com]

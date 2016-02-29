@@ -1,0 +1,5 @@
+[Fri Jan 29 18:08:35 2016]	[client: 119.94.254.226] [file: points.class.php] - Location ID: [LOCC511951ozxNdx]	 Status: [Success]	 Response : [Valid]
+[Fri Jan 29 18:09:47 2016]	[client: 119.94.254.226] [file: points.class.php] - Location ID: [LOCC511951ozxNdx]	 Status: [Success]	 Response : [Valid]
+[Fri Jan 29 18:15:39 2016]	[client: 119.94.254.226] [file: points.class.php] - Location ID: [LOCC511951ozxNdx]	 Status: [Success]	 Response : [Valid]
+[Fri Jan 29 18:22:40 2016]	[client: 119.94.254.226] [file: points.class.php] - Location ID: [LOCC511951ozxNdx]	 Status: [Success]	 Response : [Valid]
+[Fri Jan 29 18:45:02 2016]	[client: 119.94.254.226] [file: points.class.php] - Location ID: [LOCC511951ozxNdx]	 Status: [Success]	 Response : [Valid]

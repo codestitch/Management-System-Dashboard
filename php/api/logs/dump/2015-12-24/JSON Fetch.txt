@@ -1,0 +1,2 @@
+[Thu Dec 24 05:08:25 2015]	[client: 49.150.72.18] [file: json.class.php] - Table: [posttable]	 Status: [Success]
+[Thu Dec 24 05:08:43 2015]	[client: 49.150.72.18] [file: json.class.php] - Table: [producttable]	 Status: [Success]

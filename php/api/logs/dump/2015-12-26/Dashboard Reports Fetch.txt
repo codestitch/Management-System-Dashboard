@@ -1,0 +1,6 @@
+[Sat Dec 26 19:30:28 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Registration
+[Sat Dec 26 19:30:28 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Download
+[Sat Dec 26 19:30:28 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Age
+[Sat Dec 26 19:30:29 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Gender
+[Sat Dec 26 19:30:40 2015]	[client: 162.144.63.154] [file: reports.class.php] - Spent Yearly Sales
+[Sat Dec 26 19:30:41 2015]	[client: 162.144.63.154] [file: reports.class.php] - SPent Daily Sales

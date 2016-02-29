@@ -1,0 +1,3 @@
+[Wed Nov 04 11:44:35 2015]	[client: 58.69.142.44] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: joseph@appsolutely.ph, Password: 123, Device ID: c725bce2376977ee, Platform: android]
+[Wed Nov 04 11:58:56 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: albert.madia@yahoo.com, Password: 123, Device ID: c725bce2376977ee, Platform: android]	 Status: [Success]
+[Wed Nov 04 18:40:54 2015]	[client: 58.69.142.44] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: jun@appsolutely.ph, Password: test12A, Device ID: c725bce2376977ee, Platform: android]

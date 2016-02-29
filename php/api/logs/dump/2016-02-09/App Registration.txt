@@ -1,0 +1,1 @@
+[Tue Feb 09 12:14:07 2016]	[client: 120.28.99.62] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: kris@appsolutely.ph]

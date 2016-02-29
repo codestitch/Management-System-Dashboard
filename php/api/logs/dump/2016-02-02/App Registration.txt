@@ -1,0 +1,7 @@
+[Tue Feb 02 09:02:59 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: loperasgenelyn@yahoo.com]
+[Tue Feb 02 09:03:23 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: loperasgenelyn@gmail.com]
+[Tue Feb 02 09:04:00 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: loperasgenelyn@yahoo.com]
+[Tue Feb 02 14:37:18 2016]	[client: 180.190.90.205] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jullaire@yahoo.com]
+[Tue Feb 02 14:37:25 2016]	[client: 180.190.90.205] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jullaire@yahoo.com]
+[Tue Feb 02 19:19:35 2016]	[client: 49.144.171.73] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: elainesumaya2218@gmail.com]
+[Tue Feb 02 21:56:29 2016]	[client: 180.191.95.174] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: maycielogonzales02@gmail.com]

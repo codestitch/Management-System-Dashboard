@@ -1,0 +1,1 @@
+[Thu Jan 28 15:45:54 2016]	[client: 162.144.63.154] [file: reports.class.php] - Table: [loctable]	 Status: [Success]

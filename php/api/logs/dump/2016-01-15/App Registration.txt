@@ -1,0 +1,2 @@
+[Fri Jan 15 18:34:40 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: loreliesonsona@yahoo.com]
+[Fri Jan 15 18:34:47 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: loreliesonsona@yahoo.com]

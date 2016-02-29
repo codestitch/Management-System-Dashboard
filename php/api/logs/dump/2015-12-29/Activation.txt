@@ -1,0 +1,3 @@
+[Tue Dec 29 12:22:06 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: mahalkoto27@gmail.com, Activation: 32b2560d386e64015cd7ba6615ad899e]	 Status: [Success]
+[Tue Dec 29 12:22:11 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mahalkoto27@gmail.com, Activation: 32b2560d386e64015cd7ba6615ad899e]
+[Tue Dec 29 12:22:41 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mahalkoto27@gmail.com, Activation: 32b2560d386e64015cd7ba6615ad899e]

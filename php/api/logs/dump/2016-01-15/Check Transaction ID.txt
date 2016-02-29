@@ -1,0 +1,1 @@
+[Fri Jan 15 18:47:45 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10045]	 Branch Code: [18]	 Status: [Success]	 Response : [Valid]

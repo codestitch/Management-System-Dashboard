@@ -1,0 +1,7 @@
+[Thu Nov 05 00:42:43 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]
+[Thu Nov 05 00:48:42 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]
+[Thu Nov 05 00:52:29 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]
+[Thu Nov 05 00:56:17 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]
+[Thu Nov 05 00:57:45 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]
+[Thu Nov 05 01:04:17 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]
+[Thu Nov 05 01:04:47 2015]	[client: 58.69.142.44] [file: points.class.php] - Location ID: [LOC3q12217OFJu7X]	 Status: [Success]	 Response : [branchCode: 22]

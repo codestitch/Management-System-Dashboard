@@ -1,0 +1,144 @@
+/* here you can put your own css to customize and override the theme */
+
+a, button {
+	text-decoration: none !important;
+}
+
+.strong {
+	font-weight: bold !important;
+}
+
+.justify {
+	text-align: justify !important;
+}
+
+#recaptcha_image > img {
+	width: 100% !important;
+}
+
+.text-white {
+	color: #fff;
+}
+
+.text-black, .text-black:hover {
+	color: #000 !important;
+}
+
+.text-icon {
+	color: #007cce;
+}
+
+/* Preloader */
+body {
+    overflow: hidden;
+    -ms-content-zooming: none;
+}
+.preloader-wrapper {
+    margin: 0;
+    background: #1f1f1f;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+}
+
+.preloader-conainer {
+/*    position: absolute;
+    width: 200px;
+    height: 30px;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;*/
+    overflow: hidden;
+    /*background: url("../images/logo.png") no-repeat scroll center center / 165px 28px rgba(0, 0, 0, 0);*/
+}
+
+.sk-cube-grid {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 0; bottom: 0; left: 0; right: 0;
+	margin: auto;
+}
+
+.sk-cube-grid .sk-cube {
+  width: 33%;
+  height: 33%;
+  background-color: #fff;
+  float: left;
+  -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+          animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
+}
+.sk-cube-grid .sk-cube1 {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s; }
+.sk-cube-grid .sk-cube2 {
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s; }
+.sk-cube-grid .sk-cube3 {
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s; }
+.sk-cube-grid .sk-cube4 {
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s; }
+.sk-cube-grid .sk-cube5 {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s; }
+.sk-cube-grid .sk-cube6 {
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s; }
+.sk-cube-grid .sk-cube7 {
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s; }
+.sk-cube-grid .sk-cube8 {
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s; }
+.sk-cube-grid .sk-cube9 {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s; }
+
+@-webkit-keyframes sk-cubeGridScaleDelay {
+  0%, 70%, 100% {
+    -webkit-transform: scale3D(1, 1, 1);
+            transform: scale3D(1, 1, 1);
+  } 35% {
+    -webkit-transform: scale3D(0, 0, 1);
+            transform: scale3D(0, 0, 1); 
+  }
+}
+
+@keyframes sk-cubeGridScaleDelay {
+  0%, 70%, 100% {
+    -webkit-transform: scale3D(1, 1, 1);
+            transform: scale3D(1, 1, 1);
+  } 35% {
+    -webkit-transform: scale3D(0, 0, 1);
+            transform: scale3D(0, 0, 1);
+  } 
+}
+/* End of Preloader */
+
+.dim {
+  opacity:0.8;
+  filter:alpha(opacity=80);
+}
+
+/***
+Rounded Portlets
+***/
+/*
+.portlet {
+	border-radius: 4px !important;
+}
+
+.portlet .portlet-title {
+	border-radius: 4px 4px 0px 0px !important;
+}
+
+.portlet .portlet-body,
+.portlet .portlet-body .form-actions  {
+	border-radius: 0px 0px 4px 4px !important;
+}
+*/

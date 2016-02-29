@@ -1,0 +1,3 @@
+[Fri Feb 05 17:46:12 2016]	[client: 112.211.193.1] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jennymarieacosta@gmail.com]
+[Fri Feb 05 18:13:06 2016]	[client: 112.211.193.1] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jennymarieacosta@gmail.com]
+[Fri Feb 05 18:23:20 2016]	[client: 112.204.60.17] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: mariakarennicolasvillanueva@gmail.com]

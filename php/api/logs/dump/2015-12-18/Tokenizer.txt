@@ -1,0 +1,2 @@
+[Fri Dec 18 20:08:14 2015]	[client: 112.198.98.192] [file: core.class.php] - [Device ID: 272BE5AE-1A95-47AF-BF8E-0428C73ED917, Platform: ios, PUSH ID: 5d0ab558ed390e8c17655c7e70467f6a3b694832ce4292135aa2f20e3394f8cb]	 Status: [Success]
+[Fri Dec 18 20:08:32 2015]	[client: 112.198.98.192] [file: core.class.php] - [Device ID: 272BE5AE-1A95-47AF-BF8E-0428C73ED917, Platform: ios, PUSH ID: 5d0ab558ed390e8c17655c7e70467f6a3b694832ce4292135aa2f20e3394f8cb]	 Status: [Existing]

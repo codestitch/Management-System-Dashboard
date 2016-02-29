@@ -1,0 +1,3 @@
+[Thu Dec 03 17:05:49 2015]	[client: 124.107.17.114] [file: points.class.php] - Loyalty ID: [LOYjE18214bNgMWd]	 Status: [Success]	 Response : [Valid]
+[Thu Dec 03 17:08:36 2015]	[client: 124.107.17.114] [file: points.class.php] - Loyalty ID: [LOYEg2459fhvx3s]	 Status: [Success]	 Response : [Valid]
+[Thu Dec 03 17:11:41 2015]	[client: 124.107.17.114] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]

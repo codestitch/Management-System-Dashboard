@@ -1,0 +1,1 @@
+[Wed Feb 03 20:03:26 2016]	[client: 180.190.90.63] [file: points.class.php] - QR-Code: [APP-7ZLR-00267]	 Status: [Success]	 Response : MEMnC162672NZnMC

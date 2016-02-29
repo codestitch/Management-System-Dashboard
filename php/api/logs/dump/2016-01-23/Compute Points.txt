@@ -1,0 +1,2 @@
+[Sat Jan 23 22:28:31 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMpc2216714Bhrc]	 Status: [Success]	 Response : 1
+[Sat Jan 23 22:31:21 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMh022168590TkL]	 Status: [Success]	 Response : 1

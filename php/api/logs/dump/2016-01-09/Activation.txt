@@ -1,0 +1,6 @@
+[Sat Jan 09 09:22:25 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: ramasdorothy@gmail.com, Activation: 67a9bab6d17de6ff06c462daafdabdad]	 Status: [Success]
+[Sat Jan 09 09:28:08 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: ramasdorothy@gmail.com, Activation: 67a9bab6d17de6ff06c462daafdabdad]
+[Sat Jan 09 09:28:19 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: choykim_3007@yahoo.com, Activation: 9b88522c9321b94b8de38fd85fd6b1c6]	 Status: [Success]
+[Sat Jan 09 09:28:20 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: choykim_3007@yahoo.com, Activation: 9b88522c9321b94b8de38fd85fd6b1c6]
+[Sat Jan 09 09:28:21 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: choykim_3007@yahoo.com, Activation: 9b88522c9321b94b8de38fd85fd6b1c6]
+[Sat Jan 09 09:28:37 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: joshcudzfae14@gmail.com, Activation: 5924b146561f7ef2aff50805675379db]	 Status: [Success]

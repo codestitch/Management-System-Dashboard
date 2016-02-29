@@ -1,0 +1,7 @@
+[Sat Jan 23 07:03:58 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: glaizawaya14@gmail.com, Activation: 9aaf06ad0ffa59907895351a1a97728b]
+[Sat Jan 23 12:48:31 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: lawrencealmario17@gmail.com, Activation: 0a84bcaa2f3cc4982f943cab84910734]	 Status: [Success]
+[Sat Jan 23 15:01:37 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: thaliagaga@yahoo.com, Activation: 8be01fa8aa4c4414274ff5ff3431d224]
+[Sat Jan 23 20:27:36 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: jmark.cruz38@yahoo.com, Activation: 4aaaae0cddfcaa68dd901de7a5eea60d]
+[Sat Jan 23 22:21:18 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: rgurgelles@gmail.com, Activation: 2de83cb5ac87aabf81321aa8a6e74926]	 Status: [Success]
+[Sat Jan 23 22:23:39 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: kennpingoy.mbtc@gmail.com, Activation: d7814e952b2abdb4ecaf900f84575fe2]	 Status: [Success]
+[Sat Jan 23 22:28:54 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: bobbymarco@ymail.com, Activation: c2de40d37e0927d8f70e1fe1f819cccf]	 Status: [Success]

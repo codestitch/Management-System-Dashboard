@@ -1,0 +1,1 @@
+[Sat Dec 05 14:45:56 2015]	[client: 112.208.79.230] [file: points.class.php] - QR-Code: [APPSINC-PH-2015-01639]	 Status: [Success]	 Response : [Invalid]	 Message: [No user found.]

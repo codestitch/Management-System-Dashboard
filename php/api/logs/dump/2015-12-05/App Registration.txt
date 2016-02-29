@@ -1,0 +1,2 @@
+[Sat Dec 05 14:06:31 2015]	[client: 180.191.95.60] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: crispinadelumbar@yahoo.com]
+[Sat Dec 05 14:06:40 2015]	[client: 180.191.95.60] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: crispinadelumbar@yahoo.com]

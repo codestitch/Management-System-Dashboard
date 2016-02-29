@@ -1,0 +1,3 @@
+[Tue Dec 29 12:18:19 2015]	[client: 112.208.16.179] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: mahalkoto27@gmail.com, Password: Mahalkoto27, Device ID: 31947325222763f9, Platform: android]
+[Tue Dec 29 12:23:27 2015]	[client: 112.208.16.179] [file: core.class.php] - [E-Mail: mahalkoto27@gmail.com, Password: Mahalkoto27, Device ID: 31947325222763f9, Platform: android]	 Status: [Success]
+[Tue Dec 29 16:26:00 2015]	[client: 112.198.79.249] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: ferlapong@yahoo.com, Password: Artessean1, Device ID: 1FCAA983-2F19-433B-A5AD-B32630FEF440, Platform: ios]

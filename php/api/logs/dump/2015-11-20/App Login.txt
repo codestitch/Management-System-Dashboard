@@ -1,0 +1,1 @@
+[Fri Nov 20 15:53:36 2015]	[client: 120.28.99.62] [file: core.class.php] - [E-Mail: cyd@appsolutely.ph, Password: Patches214, Device ID: 1E4D4E86-2F2B-4D40-BE44-6C1F8F2A14DC, Platform: ios]	 Status: [Success]

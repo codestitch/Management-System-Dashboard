@@ -1,0 +1,5 @@
+[Tue Dec 08 15:02:19 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: maying.garin@yahoo.com, Activation: 35071297b40a839bb86215a75aad73fe]	 Status: [Success]
+[Tue Dec 08 15:02:26 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: maying.garin@yahoo.com, Activation: 35071297b40a839bb86215a75aad73fe]
+[Tue Dec 08 15:02:53 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: maying.garin@yahoo.com, Activation: 35071297b40a839bb86215a75aad73fe]
+[Tue Dec 08 16:45:34 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: yocamv@gmail.com, Activation: 77539b332259131072fdf56dba299a26]	 Status: [Success]
+[Tue Dec 08 22:44:42 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: zangky_poyaoan@yahoo.com, Activation: e2ea7c66eff001ea62f7215eeb2c304b]

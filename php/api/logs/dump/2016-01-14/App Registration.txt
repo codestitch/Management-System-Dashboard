@@ -1,0 +1,3 @@
+[Thu Jan 14 14:52:44 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: smi_joanquintos@yahoo.com]
+[Thu Jan 14 14:52:47 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: heindrixvilla@yahoo.com]
+[Thu Jan 14 18:16:34 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: xian22guy@yahoo.com]

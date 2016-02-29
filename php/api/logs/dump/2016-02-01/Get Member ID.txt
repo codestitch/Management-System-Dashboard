@@ -1,0 +1,1 @@
+[Mon Feb 01 21:59:56 2016]	[client: 119.94.227.202] [file: points.class.php] - QR-Code: [APP-BSGD-00234]	 Status: [Success]	 Response : MEM5z2023449rnoE

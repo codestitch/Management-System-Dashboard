@@ -1,0 +1,2 @@
+[Tue Nov 10 14:28:34 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TAB29128y48gsnlt]
+[Tue Nov 10 14:28:48 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TAB29128y48gsnlt]

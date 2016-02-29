@@ -1,0 +1,8 @@
+[Fri Jan 22 18:54:26 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMJm1815435qWhq]	 Status: [Success]	 Response : 1
+[Fri Jan 22 18:59:30 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMID1815542RfxL]	 Status: [Success]	 Response : 1
+[Fri Jan 22 19:40:50 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMiR1915634fyQp]	 Status: [Success]	 Response : 1
+[Fri Jan 22 19:41:09 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEM7D1915745FilG]	 Status: [Success]	 Response : 1
+[Fri Jan 22 19:43:27 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMaj1916012SjOY]	 Status: [Success]	 Response : 1
+[Fri Jan 22 19:44:24 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMYv191624ppESg]	 Status: [Success]	 Response : 1
+[Fri Jan 22 19:47:35 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMwm19163948hQf]	 Status: [Success]	 Response : 1
+[Fri Jan 22 19:50:59 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMl8191585uSKYr]	 Status: [Success]	 Response : 1

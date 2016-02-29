@@ -1,0 +1,1 @@
+[Thu Jan 28 19:21:03 2016]	[client: 112.208.32.15] [file: points.class.php] - Member ID: [MEMI91918913pu4J]	 Status: [Success]

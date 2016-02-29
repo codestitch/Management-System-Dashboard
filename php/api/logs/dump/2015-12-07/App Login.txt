@@ -1,0 +1,5 @@
+[Mon Dec 07 10:22:03 2015]	[client: 124.107.17.114] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: loperasgenelyn@yahoo.com, Password: Rygen-11, Device ID: 6436A857-9AF2-470C-9BFA-E95BDF9CED6E, Platform: ios]
+[Mon Dec 07 10:22:15 2015]	[client: 124.107.17.114] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: loperasgenelyn@yahoo.com, Password: Rygen-11, Device ID: 6436A857-9AF2-470C-9BFA-E95BDF9CED6E, Platform: ios]
+[Mon Dec 07 10:30:28 2015]	[client: 124.107.17.114] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: laurierimas@gmail.com, Password: doobeedoo, Device ID: 22d0589cf1ebc53d, Platform: android]
+[Mon Dec 07 10:35:16 2015]	[client: 124.107.17.114] [file: core.class.php] - [E-Mail: laurierimas@gmail.com, Password: Anne09, Device ID: 22d0589cf1ebc53d, Platform: android]	 Status: [Success]
+[Mon Dec 07 16:46:28 2015]	[client: 124.107.17.114] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: loperasgenelyn@yahoo.com, Password: Rygen-11, Device ID: 6436A857-9AF2-470C-9BFA-E95BDF9CED6E, Platform: ios]

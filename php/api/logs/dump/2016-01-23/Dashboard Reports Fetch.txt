@@ -1,0 +1,5 @@
+[Sat Jan 23 11:52:57 2016]	[client: 162.144.63.154] [file: reports.class.php] - User Registration
+[Sat Jan 23 11:52:58 2016]	[client: 162.144.63.154] [file: reports.class.php] - User Download
+[Sat Jan 23 11:52:58 2016]	[client: 162.144.63.154] [file: reports.class.php] - User Age
+[Sat Jan 23 11:52:58 2016]	[client: 162.144.63.154] [file: reports.class.php] - User Gender
+[Sat Jan 23 11:53:15 2016]	[client: 162.144.63.154] [file: reports.class.php] - Monthly User Birthday

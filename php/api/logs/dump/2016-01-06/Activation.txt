@@ -1,0 +1,1 @@
+[Wed Jan 06 15:29:50 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: gguerrero0310@gmail.com, Activation: 1c187ac863edf850eb866a01ad95034f]	 Status: [Success]

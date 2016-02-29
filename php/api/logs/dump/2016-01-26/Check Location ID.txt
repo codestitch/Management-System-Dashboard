@@ -1,0 +1,1 @@
+[Tue Jan 26 20:44:36 2016]	[client: 180.190.91.219] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [Valid]

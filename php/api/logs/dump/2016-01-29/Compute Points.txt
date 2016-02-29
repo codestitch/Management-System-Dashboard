@@ -1,0 +1,5 @@
+[Fri Jan 29 18:08:35 2016]	[client: 119.94.254.226] [file: points.class.php] - Member ID: [MEMas1720939FMKe]	 Status: [Success]	 Response : 1
+[Fri Jan 29 18:09:47 2016]	[client: 119.94.254.226] [file: points.class.php] - Member ID: [MEMuQ1720828DseF]	 Status: [Success]	 Response : 1
+[Fri Jan 29 18:15:39 2016]	[client: 119.94.254.226] [file: points.class.php] - Member ID: [MEMLt182121U1bIT]	 Status: [Success]	 Response : 1
+[Fri Jan 29 18:22:40 2016]	[client: 119.94.254.226] [file: points.class.php] - Member ID: [MEMYk1821132ALVb]	 Status: [Success]	 Response : 1
+[Fri Jan 29 18:45:02 2016]	[client: 119.94.254.226] [file: points.class.php] - Member ID: [MEMsv182138ZjpZA]	 Status: [Success]	 Response : 1

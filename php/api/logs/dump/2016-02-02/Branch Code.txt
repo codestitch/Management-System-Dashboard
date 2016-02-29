@@ -1,0 +1,2 @@
+[Tue Feb 02 22:00:20 2016]	[client: 180.191.139.98] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]
+[Tue Feb 02 22:00:21 2016]	[client: 180.191.139.98] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]
