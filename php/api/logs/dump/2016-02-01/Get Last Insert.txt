@@ -1,1 +1,0 @@
-[Mon Feb 01 21:59:56 2016]	[client: 119.94.227.202] [file: points.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [TRANSjK21156DNRM]

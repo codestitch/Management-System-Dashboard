@@ -1,2 +1,0 @@
-[Fri Dec 04 16:45:40 2015]	[client: 112.198.18.126] [file: core.class.php] - E-mail Address: [jen_panganiban06@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Fri Dec 04 23:32:37 2015]	[client: 180.191.154.161] [file: core.class.php] - E-mail Address: [zangky_poyaoan@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

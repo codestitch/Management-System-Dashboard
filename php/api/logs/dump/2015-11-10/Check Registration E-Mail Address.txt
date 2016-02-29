@@ -1,1 +1,0 @@
-[Tue Nov 10 17:00:44 2015]	[client: 112.198.98.101] [file: core.class.php] - E-mail Address: [fred.asuelo.jr@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

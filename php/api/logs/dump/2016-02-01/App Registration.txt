@@ -1,4 +1,0 @@
-[Mon Feb 01 18:43:40 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: johnkeith_alarcon04@yahoo.com]
-[Mon Feb 01 18:56:15 2016]	[client: 119.94.227.202] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: charmaine.valdemoro@yahoo.com]
-[Mon Feb 01 20:50:34 2016]	[client: 119.94.227.202] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: blumelay@gmail.com]
-[Mon Feb 01 20:50:45 2016]	[client: 119.94.227.202] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: blumelay@gmail.com]

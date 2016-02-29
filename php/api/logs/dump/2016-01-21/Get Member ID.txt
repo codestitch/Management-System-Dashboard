@@ -1,3 +1,0 @@
-[Thu Jan 21 20:21:39 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-JKNT-00142]	 Status: [Success]	 Response : MEMIb191425BixEt
-[Thu Jan 21 20:22:56 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-JT1Y-00150]	 Status: [Success]	 Response : MEMz31915010qOCw
-[Thu Jan 21 20:31:18 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-OW6X-00148]	 Status: [Success]	 Response : MEMMW1914825feiB

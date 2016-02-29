@@ -1,2 +1,0 @@
-[Fri Dec 11 18:17:28 2015]	[client: 119.95.172.74] [file: core.class.php] - E-mail Address: [odamonteclaro@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Fri Dec 11 20:05:58 2015]	[client: 112.198.78.21] [file: core.class.php] - E-mail Address: [haguiling24@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

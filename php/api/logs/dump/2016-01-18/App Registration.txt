@@ -1,1 +1,0 @@
-[Mon Jan 18 17:44:18 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: florenzshaira@yahoo.com]

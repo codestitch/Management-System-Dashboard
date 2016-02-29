@@ -1,3 +1,0 @@
-[Sun Jan 17 21:07:47 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10137]	 Branch Code: [18]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 17 21:26:06 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10142]	 Branch Code: [18]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 17 23:00:50 2016]	[client: 112.208.21.39] [file: points.class.php] - Transaction ID: [10214]	 Branch Code: [18]	 Status: [Success]	 Response : [Valid]

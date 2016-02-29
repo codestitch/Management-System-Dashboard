@@ -1,1 +1,0 @@
-[Fri Jan 15 18:47:45 2016]	[client: 112.208.21.39] [file: points.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [TRANSis18145hP94]

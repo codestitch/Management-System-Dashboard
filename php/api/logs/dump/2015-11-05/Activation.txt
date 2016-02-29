@@ -1,4 +1,0 @@
-[Thu Nov 05 00:41:10 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: facejun@yahoo.com, Activation: 5b46b20777cd6decd0313cbd691a3f0a]	 Status: [Success]
-[Thu Nov 05 00:41:31 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: facejun@yahoo.com, Activation: 5b46b20777cd6decd0313cbd691a3f0a]	 Status: [Success]
-[Thu Nov 05 01:00:48 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: facejun@yahoo.com, Activation: 5b46b20777cd6decd0313cbd691a3f0a]
-[Thu Nov 05 16:17:49 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: facejun@yahoo.com, Activation: 5b46b20777cd6decd0313cbd691a3f0a]

@@ -1,2 +1,0 @@
-[Sun Jan 10 19:21:21 2016]	[client: 121.54.44.178] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: ivyjonjon@gmail.com, Password: IvyJon1716, Device ID: FED1900B-645D-4630-BB5D-B8FE6DE47A24, Platform: ios]
-[Sun Jan 10 20:09:02 2016]	[client: 112.198.79.110] [file: core.class.php] - [E-Mail: christine023ang@gmail.com, Password: Baboys888, Device ID: 72EB5539-6D22-4DE7-ADD8-64BE1ED2EFD4, Platform: ios]	 Status: [Success]

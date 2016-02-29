@@ -1,6 +1,0 @@
-[Sat Jan 09 09:18:35 2016]	[client: 124.107.17.114] [file: core.class.php] - E-mail Address: [loperasgenelyn@yahoo.com]	 Status: [Success]	 Response : [Existing]
-[Sat Jan 09 09:18:51 2016]	[client: 124.107.17.114] [file: core.class.php] - E-mail Address: [loperasgenelyn@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Sat Jan 09 09:21:04 2016]	[client: 124.107.17.114] [file: core.class.php] - E-mail Address: [jayesie8@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Sat Jan 09 09:21:12 2016]	[client: 124.107.17.114] [file: core.class.php] - E-mail Address: [ramasdorothy@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Sat Jan 09 09:21:40 2016]	[client: 124.107.17.114] [file: core.class.php] - E-mail Address: [choykim_3007@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Sat Jan 09 09:24:39 2016]	[client: 124.107.17.114] [file: core.class.php] - E-mail Address: [joshcudzfae14@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

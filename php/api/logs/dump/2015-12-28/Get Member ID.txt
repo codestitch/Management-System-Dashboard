@@ -1,4 +1,0 @@
-[Mon Dec 28 14:41:18 2015]	[client: 180.191.95.26] [file: points.class.php] - QR-Code: [APP-SU3N-00031]	 Status: [Success]	 Response : MEMXI153137zyTDm
-[Mon Dec 28 14:41:19 2015]	[client: 180.191.95.26] [file: points.class.php] - QR-Code: [APP-SU3N-00031]	 Status: [Success]	 Response : MEMXI153137zyTDm
-[Mon Dec 28 15:05:14 2015]	[client: 180.190.91.125] [file: points.class.php] - QR-Code: [APP-S9WM-00052]	 Status: [Success]	 Response : MEMOl145237aFE8A
-[Mon Dec 28 15:13:14 2015]	[client: 180.191.143.100] [file: points.class.php] - QR-Code: [APP-S9WM-00052]	 Status: [Success]	 Response : MEMOl145237aFE8A

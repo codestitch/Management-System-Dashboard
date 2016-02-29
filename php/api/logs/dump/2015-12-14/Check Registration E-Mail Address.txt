@@ -1,2 +1,0 @@
-[Mon Dec 14 05:46:58 2015]	[client: 112.198.82.53] [file: core.class.php] - E-mail Address: [kerenley.calilung@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Mon Dec 14 16:07:22 2015]	[client: 121.54.32.166] [file: core.class.php] - E-mail Address: [aremajassenav@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

@@ -1,6 +1,0 @@
-[Mon Jan 25 20:09:56 2016]	[client: 180.190.94.3] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: tanandato@yahoo.com, Password: Abdul1968, Device ID: f8ffb8a2014abdad, Platform: android]
-[Mon Jan 25 20:14:03 2016]	[client: 180.190.94.3] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: tanandato@yahoo.com, Password: Abdul1968, Device ID: f8ffb8a2014abdad, Platform: android]
-[Mon Jan 25 20:14:23 2016]	[client: 180.190.94.3] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: tanandato@yahoo.com, Password: Abdul1968, Device ID: f8ffb8a2014abdad, Platform: android]
-[Mon Jan 25 20:14:34 2016]	[client: 180.190.94.3] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: tanandato@yahoo.com, Password: Abdul1968, Device ID: f8ffb8a2014abdad, Platform: android]
-[Mon Jan 25 20:15:46 2016]	[client: 180.190.94.3] [file: core.class.php] - [E-Mail: tanandato@yahoo.com, Password: Abdul1968, Device ID: f8ffb8a2014abdad, Platform: android]	 Status: [Success]
-[Mon Jan 25 20:47:11 2016]	[client: 112.198.90.229] [file: core.class.php] - [E-Mail: robertodichosojr@gmail.com, Password: Robertodichosojr29, Device ID: 2bcb673e86746bc, Platform: android]	 Status: [Success]

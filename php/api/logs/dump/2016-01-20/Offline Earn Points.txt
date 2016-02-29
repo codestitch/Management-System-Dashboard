@@ -1,1 +1,0 @@
-[Wed Jan 20 21:20:46 2016]	[client: 112.208.21.39] [file: points.class.php] - Bad Request - [Message: This receipt has already been used.] [Device ID: b8ae53d1d862c7fb, Transaction ID: 10064, Location ID: LOCC511951ozxNdx, Barcode: APP-AO6B-00132, Transaction Type: app, Points: 3, Amount: 1703, Base Value: 500, Raffle Value: 0, Raffle Entry: 0, Ticket: 0, SKU: ]

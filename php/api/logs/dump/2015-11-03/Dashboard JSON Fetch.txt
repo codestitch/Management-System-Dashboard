@@ -1,2 +1,0 @@
-[Tue Nov 03 18:52:47 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]
-[Tue Nov 03 18:52:47 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]

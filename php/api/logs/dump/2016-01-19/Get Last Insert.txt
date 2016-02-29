@@ -1,3 +1,0 @@
-[Tue Jan 19 17:10:34 2016]	[client: 112.208.21.39] [file: points.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [TRANSJv17134bcjN]
-[Tue Jan 19 21:56:25 2016]	[client: 112.208.21.39] [file: points.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [TRANS0E21125232O]
-[Tue Jan 19 23:10:51 2016]	[client: 112.208.21.39] [file: points.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [TRANSC23151oYwy]

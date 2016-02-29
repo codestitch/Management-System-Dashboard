@@ -1,1 +1,0 @@
-[Fri Jan 15 18:47:45 2016]	[client: 112.208.21.39] [file: points.class.php] - QR-Code: [APP-ZY11-00088]	 Status: [Success]	 Response : MEMAZ1888115i5ov

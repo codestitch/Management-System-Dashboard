@@ -1,3 +1,0 @@
-[Thu Dec 03 17:05:49 2015]	[client: 124.107.17.114] [file: points.class.php] - Member ID: [MEMXI153137zyTDm]	 Status: [Success]	 Response : 8
-[Thu Dec 03 17:08:36 2015]	[client: 124.107.17.114] [file: points.class.php] - Member ID: [MEMXI153137zyTDm]	 Status: [Success]	 Response : 13
-[Thu Dec 03 17:11:41 2015]	[client: 124.107.17.114] [file: points.class.php] - Member ID: [MEMXI153137zyTDm]	 Status: [Success]	 Response : 11

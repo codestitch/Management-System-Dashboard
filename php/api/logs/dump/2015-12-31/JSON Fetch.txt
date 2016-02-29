@@ -1,1 +1,0 @@
-[Thu Dec 31 11:02:34 2015]	[client: 112.198.100.17] [file: json.class.php] - Table: [loctable]	 Status: [Success]

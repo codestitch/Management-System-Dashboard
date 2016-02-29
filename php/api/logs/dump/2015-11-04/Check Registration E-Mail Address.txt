@@ -1,6 +1,0 @@
-[Wed Nov 04 18:26:44 2015]	[client: 58.69.142.44] [file: core.class.php] - E-mail Address: [albert.madia@yahoo.com]	 Status: [Success]	 Response : [Existing]
-[Wed Nov 04 18:27:13 2015]	[client: 58.69.142.44] [file: core.class.php] - E-mail Address: [josepha@appsolutely.ph]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Nov 04 18:39:05 2015]	[client: 58.69.142.44] [file: core.class.php] - E-mail Address: [jun@appsolutely.ph]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Nov 04 18:53:53 2015]	[client: 58.69.142.44] [file: core.class.php] - E-mail Address: [karlo@appsolutely.ph]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Nov 04 22:32:45 2015]	[client: 58.69.142.44] [file: core.class.php] - E-mail Address: [softwarejun@ymail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Nov 04 22:52:45 2015]	[client: 58.69.142.44] [file: core.class.php] - E-mail Address: [facejun@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

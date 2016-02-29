@@ -1,7 +1,0 @@
-[Thu Nov 05 00:42:43 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-OFVH-00018]	 Status: [Success]	 Response : MEMHf221845XVyUF
-[Thu Nov 05 00:48:42 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-OFVH-00018]	 Status: [Success]	 Response : MEMHf221845XVyUF
-[Thu Nov 05 00:52:29 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-OFVH-00018]	 Status: [Success]	 Response : MEMHf221845XVyUF
-[Thu Nov 05 00:56:17 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-TXUM-00002]	 Status: [Success]	 Response : MEM2219253TfmThA
-[Thu Nov 05 00:57:45 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-OFVH-00018]	 Status: [Success]	 Response : MEMHf221845XVyUF
-[Thu Nov 05 01:04:17 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-OFVH-00018]	 Status: [Success]	 Response : MEMHf221845XVyUF
-[Thu Nov 05 01:04:47 2015]	[client: 58.69.142.44] [file: points.class.php] - QR-Code: [APP-OFVH-00018]	 Status: [Success]	 Response : MEMHf221845XVyUF

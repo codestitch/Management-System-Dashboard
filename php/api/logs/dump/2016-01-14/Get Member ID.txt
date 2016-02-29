@@ -1,1 +1,0 @@
-[Thu Jan 14 12:13:18 2016]	[client: 112.208.21.39] [file: points.class.php] - QR-Code: [APP-M4OJ-00021]	 Status: [Success]	 Response : MEMFW142130yLZxw

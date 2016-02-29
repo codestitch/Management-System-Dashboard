@@ -1,6 +1,0 @@
-[Thu Jan 07 20:50:16 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: mrrama@yahoo.com, Activation: 10aa74e79c377080627a5cd026cb2cf5]	 Status: [Success]
-[Thu Jan 07 20:50:20 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mrrama@yahoo.com, Activation: 10aa74e79c377080627a5cd026cb2cf5]
-[Thu Jan 07 20:51:16 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mrrama@yahoo.com, Activation: 10aa74e79c377080627a5cd026cb2cf5]
-[Thu Jan 07 20:51:26 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mrrama@yahoo.com, Activation: 10aa74e79c377080627a5cd026cb2cf5]
-[Thu Jan 07 20:51:39 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mrrama@yahoo.com, Activation: 10aa74e79c377080627a5cd026cb2cf5]
-[Thu Jan 07 20:56:07 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: mrrama@yahoo.com, Activation: 10aa74e79c377080627a5cd026cb2cf5]

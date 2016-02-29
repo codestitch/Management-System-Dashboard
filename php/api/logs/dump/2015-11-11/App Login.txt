@@ -1,6 +1,0 @@
-[Wed Nov 11 01:17:51 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: adromil@lycos.com, Password: 123, Device ID: AE39D38E-37C6-43F1-9DF3-9A4DFB902304, Platform: ios]	 Status: [Success]
-[Wed Nov 11 02:32:05 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: adromil@lycos.com, Password: 123, Device ID: A825184F-82E0-4B47-86A9-AE28AB986CF0, Platform: ios]	 Status: [Success]
-[Wed Nov 11 04:29:12 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: adromil@lycos.com, Password: 123, Device ID: A501F4B9-5CF4-4EFA-BB30-424052FC4BF6, Platform: ios]	 Status: [Success]
-[Wed Nov 11 04:59:38 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: adromil@lycos.com, Password: 123, Device ID: 33DC9B89-0942-409D-87C3-399BEAD59316, Platform: ios]	 Status: [Success]
-[Wed Nov 11 05:07:01 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: adromil@lycos.com, Password: 123, Device ID: BE007E92-8E77-4959-A260-AB823042FD79, Platform: ios]	 Status: [Success]
-[Wed Nov 11 23:53:42 2015]	[client: 112.198.82.155] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: illinoisjavier@gmail.com, Password: javier1991, Device ID: ed8abdcd7b1fa9, Platform: android]

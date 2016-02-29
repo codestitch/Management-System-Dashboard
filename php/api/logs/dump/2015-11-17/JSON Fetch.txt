@@ -1,8 +1,0 @@
-[Tue Nov 17 13:00:42 2015]	[client: 17.223.105.232] [file: json.class.php] - Table: [producttable]	 Status: [Success]
-[Tue Nov 17 13:00:42 2015]	[client: 17.223.105.232] [file: json.class.php] - Table: [loctable]	 Status: [Success]
-[Tue Nov 17 13:00:42 2015]	[client: 17.223.105.232] [file: json.class.php] - Table: [promotable]	 Status: [Success]
-[Tue Nov 17 13:00:42 2015]	[client: 17.223.105.232] [file: json.class.php] - Table: [settings]	 Status: [Success]
-[Tue Nov 17 18:54:47 2015]	[client: 120.28.99.62] [file: json.class.php] - Table: [producttable]	 Status: [Success]
-[Tue Nov 17 18:54:47 2015]	[client: 120.28.99.62] [file: json.class.php] - Table: [loctable]	 Status: [Success]
-[Tue Nov 17 18:54:48 2015]	[client: 120.28.99.62] [file: json.class.php] - Table: [promotable]	 Status: [Success]
-[Tue Nov 17 18:54:48 2015]	[client: 120.28.99.62] [file: json.class.php] - Table: [settings]	 Status: [Success]

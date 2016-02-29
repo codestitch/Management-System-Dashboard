@@ -1,2 +1,0 @@
-[Fri Dec 11 18:23:25 2015]	[client: 119.95.172.74] [file: core.class.php] - [E-Mail: odamonteclaro@yahoo.com, Password: Rarie2, Device ID: 3e7de1a56e9993a8, Platform: android]	 Status: [Success]
-[Fri Dec 11 20:11:00 2015]	[client: 112.198.78.21] [file: core.class.php] - [E-Mail: haguiling24@gmail.com, Password: Onlyallah11, Device ID: E850A41B-15C5-4CF1-90D9-9143F89F3553, Platform: ios]	 Status: [Success]

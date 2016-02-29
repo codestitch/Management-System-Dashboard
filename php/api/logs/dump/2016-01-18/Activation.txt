@@ -1,3 +1,0 @@
-[Mon Jan 18 00:59:34 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: eqtrojillo@gmail.com, Activation: 4f9fddb9ce2b0dea922a4add72fa17fa]
-[Mon Jan 18 07:35:13 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: eqtrojillo@gmail.com, Activation: 4f9fddb9ce2b0dea922a4add72fa17fa]
-[Mon Jan 18 09:12:18 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: gemarieluzaran@yahoo.com, Activation: ebd6521707c7c3c2b87c66e3e1e727c7]

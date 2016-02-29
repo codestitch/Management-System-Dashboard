@@ -1,2 +1,0 @@
-[Wed Sep 23 15:24:24 2015]	[client: 58.69.142.44] [file: api.php] - Illegal access attempt.	 [Param: oauth]
-[Wed Sep 23 15:31:53 2015]	[client: 58.69.142.44] [file: dashboard.php] - Illegal access attempt.	 [Param: oauth]

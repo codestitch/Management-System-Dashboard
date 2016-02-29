@@ -1,1 +1,0 @@
-[Tue Nov 03 11:12:05 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [ebd2bc9bb8f7166e]	 Status: [Success]	 Response : [Error]

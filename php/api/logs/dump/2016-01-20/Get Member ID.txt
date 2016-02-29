@@ -1,3 +1,0 @@
-[Wed Jan 20 19:37:10 2016]	[client: 112.208.21.39] [file: points.class.php] - QR-Code: [APP-BKZA-00128]	 Status: [Success]	 Response : MEMdb18128125MrI
-[Wed Jan 20 21:20:42 2016]	[client: 112.208.21.39] [file: points.class.php] - QR-Code: [APP-AO6B-00132]	 Status: [Success]	 Response : MEMds1913238uW4l
-[Wed Jan 20 21:20:46 2016]	[client: 112.208.21.39] [file: points.class.php] - QR-Code: [APP-AO6B-00132]	 Status: [Success]	 Response : MEMds1913238uW4l

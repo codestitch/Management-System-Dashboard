@@ -1,1 +1,0 @@
-[Fri Dec 04 15:36:35 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: demilanguitan@yahoo.com, Activation: 1257af799b6e7853699d057b346effe2]

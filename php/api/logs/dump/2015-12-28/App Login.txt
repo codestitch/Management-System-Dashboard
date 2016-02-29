@@ -1,6 +1,0 @@
-[Mon Dec 28 14:37:51 2015]	[client: 180.191.95.26] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: jhonrobinroqu@yahoo.com, Password: Jr031509, Device ID: 7ed1820e7bb6e7a7, Platform: android]
-[Mon Dec 28 14:37:58 2015]	[client: 180.191.95.26] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: jhonrobinroqu@yahoo.com, Password: Jr031509, Device ID: 7ed1820e7bb6e7a7, Platform: android]
-[Mon Dec 28 14:41:20 2015]	[client: 180.191.95.26] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: jhonrobinroqu@yahoo.com, Password: Jr031509, Device ID: 7ed1820e7bb6e7a7, Platform: android]
-[Mon Dec 28 14:56:40 2015]	[client: 180.191.95.26] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: justin.rain0915@gmail.com, Password: Jr031508, Device ID: 7ed1820e7bb6e7a7, Platform: android]
-[Mon Dec 28 14:56:45 2015]	[client: 180.191.95.26] [file: core.class.php] - [E-Mail: justin.rain0915@gmail.com, Password: Jr031509, Device ID: 7ed1820e7bb6e7a7, Platform: android]	 Status: [Success]
-[Mon Dec 28 15:26:08 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: jpachas45@gmail.com, Password: Jepords123, Device ID: 7282661cbee86210, Platform: android]	 Status: [Success]

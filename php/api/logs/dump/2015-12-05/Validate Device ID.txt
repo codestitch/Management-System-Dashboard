@@ -1,1 +1,0 @@
-[Sat Dec 05 14:45:56 2015]	[client: 112.208.79.230] [file: points.class.php] - Device ID: [b8ae53d1d862c7fb]	 Status: [Success]	 Response : [True]

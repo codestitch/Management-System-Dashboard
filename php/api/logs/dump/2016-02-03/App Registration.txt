@@ -1,3 +1,0 @@
-[Wed Feb 03 14:22:16 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: danicatacubanza@yahoo.com]
-[Wed Feb 03 14:22:25 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: danicatacubanza@yahoo.com]
-[Wed Feb 03 20:15:12 2016]	[client: 180.190.90.63] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jane_paez@yahoo.com]

@@ -1,2 +1,0 @@
-[Tue Jan 19 21:23:35 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: tintinnin0527@icloud.com]
-[Tue Jan 19 21:23:44 2016]	[client: 112.208.21.39] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: tintinnin0527@icloud.com]

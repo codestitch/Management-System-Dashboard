@@ -1,4 +1,0 @@
-[Thu Dec 03 15:00:19 2015]	[client: 121.54.32.107] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: hankaaron.galvez@yahoo.com]
-[Thu Dec 03 15:09:08 2015]	[client: 121.54.44.173] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: ferlapong@yahoo.com]
-[Thu Dec 03 15:45:58 2015]	[client: 112.198.79.90] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: ferlapong@yahoo.com]
-[Thu Dec 03 15:52:28 2015]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: emon.rincal@yahoo.com]

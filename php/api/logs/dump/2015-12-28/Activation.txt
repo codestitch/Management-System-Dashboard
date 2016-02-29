@@ -1,2 +1,0 @@
-[Mon Dec 28 14:56:09 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: justin.rain0915@gmail.com, Activation: 5855ba3bc5e351314835f9800785ad8b]	 Status: [Success]
-[Mon Dec 28 15:24:07 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: jpachas45@gmail.com, Activation: ac61a30184e41ad2ba3d30ba93798565]	 Status: [Success]

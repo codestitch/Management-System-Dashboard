@@ -1,2 +1,0 @@
-[Fri Jan 15 18:50:26 2016]	[client: 112.208.21.39] [file: points.class.php] - Member ID: [MEMIc189146HJqLq]	 Status: [Success]	 Response : 1
-[Fri Jan 15 18:53:53 2016]	[client: 112.208.21.39] [file: points.class.php] - Member ID: [MEMVI189230BIEYJ]	 Status: [Success]	 Response : 1

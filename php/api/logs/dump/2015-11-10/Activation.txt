@@ -1,1 +1,0 @@
-[Tue Nov 10 17:12:57 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: fred.asuelo.jr@gmail.com, Activation: 94ae279eed97cccd8e4ced00cd49cf15]	 Status: [Success]

@@ -1,1 +1,0 @@
-[Wed Feb 03 20:03:26 2016]	[client: 180.190.90.63] [file: points.class.php] - Device ID: [d7c53c40306eb114]	 Status: [Success]	 Response : [TRANSzg20126slbF]

@@ -1,7 +1,0 @@
-[Tue Dec 15 17:55:13 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: lacunaelainejoyce@gmail.com, Password: joycepii21, Device ID: 14559dc301ac818d, Platform: android]
-[Tue Dec 15 17:55:32 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: lacunaelainejoyce@gmail.com, Password: joycepii21, Device ID: 14559dc301ac818d, Platform: android]
-[Tue Dec 15 17:55:43 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: lacunaelainejoyce@gmail.com, Password: JOYCEPII21, Device ID: 14559dc301ac818d, Platform: android]
-[Tue Dec 15 17:55:56 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: lacunaelainejoyce@gmail.com, Password: joycepii21, Device ID: 14559dc301ac818d, Platform: android]
-[Tue Dec 15 17:56:18 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: laine_joyce@yahoo.com, Password: ejlacuna01, Device ID: 14559dc301ac818d, Platform: android]
-[Tue Dec 15 17:56:26 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: laine_joyce@yahoo.com, Password: joycepii21, Device ID: 14559dc301ac818d, Platform: android]
-[Tue Dec 15 17:56:33 2015]	[client: 180.191.95.139] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: laine_joyce@yahoo.com, Password: joycepii, Device ID: 14559dc301ac818d, Platform: android]

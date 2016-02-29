@@ -1,2 +1,0 @@
-[Tue Dec 15 18:52:16 2015]	[client: 162.144.63.154] [file: reports.class.php] - Execute failed: (1305) PROCEDURE apps2015_seafood.export_registeredcustomerapp does not exist	 [Procedure: export_registeredcustomerapp] [Query: CALL export_registeredcustomerapp(?, ?, ?, ?)]
-[Tue Dec 15 18:52:24 2015]	[client: 162.144.63.154] [file: reports.class.php] - Execute failed: (1305) PROCEDURE apps2015_seafood.export_registeredcustomerapp does not exist	 [Procedure: export_registeredcustomerapp] [Query: CALL export_registeredcustomerapp(?, ?, ?, ?)]

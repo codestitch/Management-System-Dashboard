@@ -1,1 +1,0 @@
-[Wed Feb 03 20:03:26 2016]	[client: 180.190.90.63] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [branchCode: 29]

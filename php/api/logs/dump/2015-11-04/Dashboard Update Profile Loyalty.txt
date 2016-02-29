@@ -1,3 +1,0 @@
-[Wed Nov 04 14:15:46 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Bad Request - Invalid/Empty [baseValue_nonCash: ]
-[Wed Nov 04 18:21:25 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Bad Request - Invalid/Empty [raffleValue: 0]
-[Wed Nov 04 18:21:58 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Bad Request - Invalid/Empty [raffleValue: 0]

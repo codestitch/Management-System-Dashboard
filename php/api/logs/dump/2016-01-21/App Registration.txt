@@ -1,1 +1,0 @@
-[Thu Jan 21 19:56:42 2016]	[client: 112.208.32.15] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: glaizaneugenio@gmail.com]

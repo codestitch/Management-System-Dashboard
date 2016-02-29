@@ -1,1 +1,0 @@
-[Sun Dec 13 18:03:36 2015]	[client: 112.203.225.242] [file: core.class.php] - E-mail Address: [tjhay_0917@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

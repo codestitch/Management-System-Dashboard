@@ -1,5 +1,0 @@
-[Wed Jan 27 12:00:07 2016]	[client: 121.54.54.47] [file: core.class.php] - E-mail Address: [ger.domingo18@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Jan 27 17:19:15 2016]	[client: 49.144.196.169] [file: core.class.php] - E-mail Address: [rosamieobligar@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Jan 27 17:20:26 2016]	[client: 49.144.196.169] [file: core.class.php] - E-mail Address: [rosamieobligar@gmail.com]	 Status: [Success]	 Response : [Existing]
-[Wed Jan 27 17:23:14 2016]	[client: 49.144.196.169] [file: core.class.php] - E-mail Address: [rosamieobligar@gmail.com]	 Status: [Success]	 Response : [Existing]
-[Wed Jan 27 17:25:06 2016]	[client: 49.144.196.169] [file: core.class.php] - E-mail Address: [rosamieobligar@gmail.com]	 Status: [Success]	 Response : [Existing]

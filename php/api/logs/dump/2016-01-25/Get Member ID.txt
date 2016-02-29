@@ -1,1 +1,0 @@
-[Mon Jan 25 20:58:09 2016]	[client: 180.191.138.62] [file: points.class.php] - QR-Code: [APP-HBZ0-00181]	 Status: [Success]	 Response : MEMvN2018157meUJ

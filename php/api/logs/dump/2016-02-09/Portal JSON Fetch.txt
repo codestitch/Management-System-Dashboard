@@ -1,4 +1,0 @@
-[Tue Feb 09 13:46:24 2016]	[client: 162.144.63.154] [file: portal.class.php] - Table: [loyaltytable]	 Status: [Success]
-[Tue Feb 09 13:46:24 2016]	[client: 162.144.63.154] [file: portal.class.php] - Table: [profile]	 Status: [Success]
-[Tue Feb 09 13:52:40 2016]	[client: 162.144.63.154] [file: portal.class.php] - Table: [loyaltytable]	 Status: [Success]
-[Tue Feb 09 13:52:40 2016]	[client: 162.144.63.154] [file: portal.class.php] - Table: [profile]	 Status: [Success]

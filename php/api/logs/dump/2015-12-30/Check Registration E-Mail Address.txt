@@ -1,3 +1,0 @@
-[Wed Dec 30 19:30:07 2015]	[client: 112.198.78.72] [file: core.class.php] - E-mail Address: [sebastian.magpantay@gmail.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Dec 30 19:58:53 2015]	[client: 121.54.54.170] [file: core.class.php] - E-mail Address: [gervz_031409@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]
-[Wed Dec 30 19:59:29 2015]	[client: 121.54.54.239] [file: core.class.php] - E-mail Address: [jayemerson.musni@yahoo.com]	 Status: [Success]	 Response : [Avaliable]	 Message: [No data found.]

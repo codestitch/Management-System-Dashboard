@@ -1,3 +1,0 @@
-[Tue Feb 09 13:30:44 2016]	[client: 58.69.142.44] [file: core.class.php] - [Message: Either your account is inactive or does not exist.] [E-Mail: adromil@hotmail.com, Password: Triskelion1968, Device ID: 9C9F9D43-6E8B-4112-9091-E02CD8F7790E, Platform: ios]
-[Tue Feb 09 13:40:26 2016]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: ianhenoc@icloud.com, Password: test12A, Device ID: 004A717D-1E6D-44BE-975E-D4210A71F15B, Platform: ios]	 Status: [Success]
-[Tue Feb 09 13:54:43 2016]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: adromil@hotmail.com, Password: Triskelion1968, Device ID: 9C9F9D43-6E8B-4112-9091-E02CD8F7790E, Platform: ios]	 Status: [Success]

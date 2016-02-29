@@ -1,5 +1,0 @@
-[Fri Dec 18 15:23:13 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Registration
-[Fri Dec 18 15:23:13 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Download
-[Fri Dec 18 15:23:14 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Age
-[Fri Dec 18 15:23:14 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Gender
-[Fri Dec 18 15:23:23 2015]	[client: 162.144.63.154] [file: reports.class.php] - Monthly User Birthday

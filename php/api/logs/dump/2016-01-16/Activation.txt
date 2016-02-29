@@ -1,1 +1,0 @@
-[Sat Jan 16 19:28:47 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: lesliemae.deleon@yahoo.com, Activation: 71d95a1a9150094bebc5c7e43e78437f]	 Status: [Success]

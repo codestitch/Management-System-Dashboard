@@ -1,1 +1,0 @@
-[Thu Nov 19 03:20:44 2015]	[client: 195.216.43.157] [file: json.class.php] - Table: [producttable]	 Status: [Success]

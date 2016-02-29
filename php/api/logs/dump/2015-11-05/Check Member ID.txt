@@ -1,2 +1,0 @@
-[Thu Nov 05 01:01:17 2015]	[client: 58.69.142.44] [file: points.class.php] - Member ID: [MEMHf221845XVyUF]	 Status: [Success]
-[Thu Nov 05 01:05:23 2015]	[client: 58.69.142.44] [file: points.class.php] - Member ID: [MEMHf221845XVyUF]	 Status: [Success]

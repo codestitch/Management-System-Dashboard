@@ -1,4 +1,0 @@
-[Wed Nov 04 15:51:56 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [ebd2bc9bb8f7166e]	 Status: [Success]	 Response : [TAB22c408AzYwwNP]
-[Wed Nov 04 22:36:07 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [ebd2bc9bb8f7166e]	 Status: [Success]	 Response : [TAB22c408AzYwwNP]
-[Wed Nov 04 22:37:36 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [ebd2bc9bb8f7166e]	 Status: [Success]	 Response : [TAB22c408AzYwwNP]
-[Wed Nov 04 22:39:16 2015]	[client: 58.69.142.44] [file: tablet.class.php] - Device ID: [ebd2bc9bb8f7166e]	 Status: [Success]	 Response : [TAB22c408AzYwwNP]

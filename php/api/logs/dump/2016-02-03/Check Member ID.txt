@@ -1,2 +1,0 @@
-[Wed Feb 03 19:58:50 2016]	[client: 112.208.59.251] [file: points.class.php] - Member ID: [MEMfZ19282327hUA]	 Status: [Success]
-[Wed Feb 03 20:28:09 2016]	[client: 112.208.59.251] [file: points.class.php] - Member ID: [MEMVF202856qWjAQ]	 Status: [Success]

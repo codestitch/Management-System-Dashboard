@@ -1,6 +1,0 @@
-[Sat Jan 30 00:22:10 2016]	[client: 112.208.30.38] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jayoliveros286@gmail.com]
-[Sat Jan 30 00:49:06 2016]	[client: 112.208.30.38] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: heavenleigh020@gmail.com]
-[Sat Jan 30 00:49:15 2016]	[client: 112.208.30.38] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: heavenleigh020@gmail.com]
-[Sat Jan 30 00:52:40 2016]	[client: 112.208.30.38] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: heavenleigh020@gmail.com]
-[Sat Jan 30 00:53:45 2016]	[client: 112.208.30.38] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: heavenleigh020@gmail.com]
-[Sat Jan 30 00:53:51 2016]	[client: 112.208.30.38] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: heavenleigh020@gmail.com]

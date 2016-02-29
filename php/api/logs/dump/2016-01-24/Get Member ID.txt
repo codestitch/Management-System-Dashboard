@@ -1,7 +1,0 @@
-[Sun Jan 24 13:00:53 2016]	[client: 180.191.142.81] [file: points.class.php] - QR-Code: [APP-S9WM-00052]	 Status: [Success]	 Response : MEMOl145237aFE8A
-[Sun Jan 24 16:00:19 2016]	[client: 180.191.138.167] [file: points.class.php] - QR-Code: [APP-S9WM-00052]	 Status: [Success]	 Response : MEMOl145237aFE8A
-[Sun Jan 24 16:35:33 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-SGLS-00169]	 Status: [Success]	 Response : MEMKn161691t4PJ4
-[Sun Jan 24 17:21:07 2016]	[client: 180.190.90.62] [file: points.class.php] - QR-Code: [APP-S9WM-00052]	 Status: [Success]	 Response : MEMOl145237aFE8A
-[Sun Jan 24 19:48:53 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-SKXN-00171]	 Status: [Success]	 Response : MEMye1917110o6am
-[Sun Jan 24 21:01:45 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-RSQU-00173]	 Status: [Success]	 Response : MEM6j19173187uXa
-[Sun Jan 24 21:23:46 2016]	[client: 112.208.32.15] [file: points.class.php] - QR-Code: [APP-6NOH-00175]	 Status: [Success]	 Response : MEMEK2017558EQ8Y

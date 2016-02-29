@@ -1,1 +1,0 @@
-[Sat Jan 09 09:18:35 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: loperasgenelyn@yahoo.com]

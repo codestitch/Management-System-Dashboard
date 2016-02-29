@@ -1,4 +1,0 @@
-[Tue Jan 26 20:42:38 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: glendacerbo@yahoo.com, Activation: 10111c04888d00739504b03aff17ab3e]	 Status: [Success]
-[Tue Jan 26 22:02:16 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: zhel.pamplona@gmail.com, Activation: 9d4d1c7a4f74e3a8a6ce74d3701b74f0]
-[Tue Jan 26 22:03:41 2016]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: zhel.pamplona@gmail.com, Activation: 9d4d1c7a4f74e3a8a6ce74d3701b74f0]
-[Tue Jan 26 22:25:45 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: thenew_adrian@yahoo.com, Activation: b32403a2ece588f3f3267dbc2b7b9c40]	 Status: [Success]

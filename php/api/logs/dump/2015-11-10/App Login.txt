@@ -1,6 +1,0 @@
-[Tue Nov 10 15:19:43 2015]	[client: 58.69.142.44] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: favejun@yahoo.com, Password: test12A, Device ID: 5F84A78C-952E-483F-966D-3FB853EE76AE, Platform: ios]
-[Tue Nov 10 15:19:59 2015]	[client: 58.69.142.44] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: faceun@yahoo.com, Password: test12A, Device ID: 5F84A78C-952E-483F-966D-3FB853EE76AE, Platform: ios]
-[Tue Nov 10 15:20:07 2015]	[client: 58.69.142.44] [file: core.class.php] - [E-Mail: facejun@yahoo.com, Password: test12A, Device ID: 5F84A78C-952E-483F-966D-3FB853EE76AE, Platform: ios]	 Status: [Success]
-[Tue Nov 10 16:51:39 2015]	[client: 112.198.98.101] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: fred.asuelo.jr@gmail.com, Password: aeiouiou143, Device ID: b0909533613dc359, Platform: android]
-[Tue Nov 10 16:52:19 2015]	[client: 112.198.98.101] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: fred.asuelo.jr@gmail.com, Password: aeiouiou143, Device ID: b0909533613dc359, Platform: android]
-[Tue Nov 10 17:14:07 2015]	[client: 112.198.98.101] [file: core.class.php] - [E-Mail: fred.asuelo.jr@gmail.com, Password: Aeiouiou143, Device ID: b0909533613dc359, Platform: android]	 Status: [Success]

@@ -1,2 +1,0 @@
-[Tue Dec 15 18:40:42 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Download
-[Tue Dec 15 18:43:40 2015]	[client: 162.144.63.154] [file: reports.class.php] - User Download

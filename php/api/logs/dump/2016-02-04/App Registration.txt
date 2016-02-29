@@ -1,4 +1,0 @@
-[Thu Feb 04 18:51:40 2016]	[client: 124.107.17.114] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: my_erian@yahoo.com]
-[Thu Feb 04 20:01:10 2016]	[client: 203.87.254.13] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: fantastic.rics04@gmail.com]
-[Thu Feb 04 20:06:18 2016]	[client: 112.198.79.48] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: jbmojadoortega@gmail.com]
-[Thu Feb 04 21:02:50 2016]	[client: 112.198.78.61] [file: core.class.php] - Bad Request - [Message: Existing E-Mail Address] [Param: mahalkoto27@gmail.com]

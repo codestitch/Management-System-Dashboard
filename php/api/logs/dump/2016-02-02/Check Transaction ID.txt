@@ -1,2 +1,0 @@
-[Tue Feb 02 22:00:21 2016]	[client: 180.191.139.98] [file: points.class.php] - Transaction ID: [93601]	 Branch Code: [29]	 Status: [Success]	 Response : [Valid]
-[Tue Feb 02 22:00:21 2016]	[client: 180.191.139.98] [file: points.class.php] - Transaction ID: [93612]	 Branch Code: [29]	 Status: [Success]	 Response : [Valid]

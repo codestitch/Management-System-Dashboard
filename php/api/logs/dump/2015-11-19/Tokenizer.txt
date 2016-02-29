@@ -1,1 +1,0 @@
-[Thu Nov 19 03:20:32 2015]	[client: 195.216.43.157] [file: core.class.php] - [Device ID: 264FC7F6-8A6D-4582-979E-C3B371DF91F6, Platform: ios, PUSH ID: 96b31036e3d166873581c75535e3f804098cbd234f2cc8a08e57efc0f2143eb1]	 Status: [Success]

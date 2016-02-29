@@ -1,2 +1,0 @@
-[Tue Nov 17 13:00:37 2015]	[client: 17.223.105.232] [file: core.class.php] - [Device ID: CD806593-338F-4CBB-AAD7-CA8E6FB82632, Platform: ios, PUSH ID: 822aa99421322dfbbd127f4249159a66adec5fd34eb6c791191a1029255bba95]	 Status: [Success]
-[Tue Nov 17 18:54:43 2015]	[client: 120.28.99.62] [file: core.class.php] - [Device ID: 0A79D729-80EF-4728-AF94-EFF4CE15B7F3, Platform: ios, PUSH ID: 61766db4f61338d3338be0d6f8a988afe72243103d42647b4791fd9074f5d31d]	 Status: [Success]

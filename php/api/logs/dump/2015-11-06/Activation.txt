@@ -1,1 +1,0 @@
-[Fri Nov 06 04:58:01 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: facejun@yahoo.com, Activation: 5b46b20777cd6decd0313cbd691a3f0a]

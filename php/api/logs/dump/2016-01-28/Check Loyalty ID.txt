@@ -1,1 +1,0 @@
-[Thu Jan 28 19:21:03 2016]	[client: 112.208.32.15] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]

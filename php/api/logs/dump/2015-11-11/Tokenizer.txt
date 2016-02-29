@@ -1,1 +1,0 @@
-[Wed Nov 11 23:26:10 2015]	[client: 112.198.82.155] [file: core.class.php] - [Device ID: ed8abdcd7b1fa9, Platform: android, PUSH ID: APA91bH4WDxqQuhpNzh0r2uFOTSREDqkjPjOTPe4cECPdo82aoO7zAnsbo8gP83maQNpay4XNVc1BLS10R2JbV9TpaV70G938Vrc7orWhutEGDRd8wtgYM_pNSzvbLixAXvOo-fzErAP]	 Status: [Success]

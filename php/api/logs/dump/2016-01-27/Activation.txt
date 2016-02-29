@@ -1,1 +1,0 @@
-[Wed Jan 27 12:07:01 2016]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: ger.domingo18@gmail.com, Activation: 44d1c8d8ddefd3de27f92a0e5a909660]	 Status: [Success]

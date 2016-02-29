@@ -1,1 +1,0 @@
-[Fri Feb 05 17:23:23 2016]	[client: 180.191.143.149] [file: points.class.php] - QR-Code: [APP-S9WM-00052]	 Status: [Success]	 Response : MEMOl145237aFE8A

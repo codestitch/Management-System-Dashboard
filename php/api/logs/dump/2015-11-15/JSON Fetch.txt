@@ -1,5 +1,0 @@
-[Sun Nov 15 19:17:21 2015]	[client: 114.108.214.223] [file: json.class.php] - Table: [producttable]	 Status: [Success]
-[Sun Nov 15 19:17:21 2015]	[client: 114.108.214.223] [file: json.class.php] - Table: [loctable]	 Status: [Success]
-[Sun Nov 15 19:17:22 2015]	[client: 114.108.214.223] [file: json.class.php] - Table: [settings]	 Status: [Success]
-[Sun Nov 15 19:17:22 2015]	[client: 114.108.214.223] [file: json.class.php] - Table: [promotable]	 Status: [Success]
-[Sun Nov 15 19:17:23 2015]	[client: 114.108.214.223] [file: json.class.php] - Table: [socialtable]	 Status: [Success]

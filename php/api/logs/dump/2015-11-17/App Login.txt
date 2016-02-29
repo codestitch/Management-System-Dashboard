@@ -1,1 +1,0 @@
-[Tue Nov 17 18:55:18 2015]	[client: 120.28.99.62] [file: core.class.php] - [Message: Invalid Username or Password.] [E-Mail: jun@appsolutely.ph, Password: test12A, Device ID: 0A79D729-80EF-4728-AF94-EFF4CE15B7F3, Platform: ios]

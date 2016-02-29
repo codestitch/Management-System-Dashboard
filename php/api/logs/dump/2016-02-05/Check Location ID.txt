@@ -1,2 +1,0 @@
-[Fri Feb 05 17:21:42 2016]	[client: 180.191.143.149] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [Valid]
-[Fri Feb 05 17:23:23 2016]	[client: 180.191.143.149] [file: points.class.php] - Location ID: [LOCWZ13027WyQncJ]	 Status: [Success]	 Response : [Valid]

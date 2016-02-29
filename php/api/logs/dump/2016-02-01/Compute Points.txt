@@ -1,1 +1,0 @@
-[Mon Feb 01 21:15:55 2016]	[client: 119.94.227.202] [file: points.class.php] - Member ID: [MEM5z2023449rnoE]	 Status: [Success]	 Response : 1

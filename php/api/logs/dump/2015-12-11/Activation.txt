@@ -1,3 +1,0 @@
-[Fri Dec 11 18:22:32 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: odamonteclaro@yahoo.com, Activation: 2cbb8e76c4323d0e4f3222eaf77e129c]	 Status: [Success]
-[Fri Dec 11 19:02:51 2015]	[client: 162.144.63.154] [file: core.class.php] - [Message: Unable to complete activation process.] [E-Mail Address: zangky_poyaoan@yahoo.com, Activation: e2ea7c66eff001ea62f7215eeb2c304b]
-[Fri Dec 11 20:08:23 2015]	[client: 162.144.63.154] [file: core.class.php] - [E-Mail Address: haguiling24@gmail.com, Activation: 3d86ed35bcfccbbd8247e6e9c896603e]	 Status: [Success]

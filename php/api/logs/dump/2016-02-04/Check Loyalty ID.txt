@@ -1,7 +1,0 @@
-[Thu Feb 04 19:14:42 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Thu Feb 04 19:46:15 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Thu Feb 04 19:58:08 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Thu Feb 04 20:16:36 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Thu Feb 04 20:20:14 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Thu Feb 04 20:21:04 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Thu Feb 04 20:37:29 2016]	[client: 112.208.59.251] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]

@@ -1,4 +1,0 @@
-[Wed Sep 23 15:44:07 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]
-[Wed Sep 23 15:44:07 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]
-[Wed Sep 23 15:47:11 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Table: [producttable]	 Status: [Success]
-[Wed Sep 23 15:50:07 2015]	[client: 162.144.63.154] [file: dashboard.class.php] - Table: [producttable]	 Status: [Success]

@@ -1,2 +1,0 @@
-[Tue Feb 02 22:00:20 2016]	[client: 180.191.139.98] [file: points.class.php] - QR-Code: [APP-F8ZG-00246]	 Status: [Success]	 Response : MEMUT1924631BQy8
-[Tue Feb 02 22:00:21 2016]	[client: 180.191.139.98] [file: points.class.php] - QR-Code: [APP-UPAU-00261]	 Status: [Success]	 Response : MEMxE212616sdxVQ

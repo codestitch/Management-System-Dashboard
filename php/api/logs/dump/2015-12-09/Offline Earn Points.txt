@@ -1,1 +1,0 @@
-[Wed Dec 09 20:53:15 2015]	[client: 124.107.17.114] [file: points.class.php] - Bad Request - [Message: Invalid Member ID] [Device ID: 77c9c0799f9249a9, Transaction ID: 156328, Location ID: LOCjj12058ukZSen, Barcode: APPSINC-PH-2015-01639, Transaction Type: app, Points: 5, Amount: 2784, Base Value: 500, Raffle Value: 0, Raffle Entry: 0, Ticket: 0, SKU: ]

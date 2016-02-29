@@ -1,1 +1,0 @@
-[Thu Jan 14 12:13:18 2016]	[client: 112.208.21.39] [file: points.class.php] - Location ID: [LOCC511951ozxNdx]	 Status: [Success]	 Response : [branchCode: 18]

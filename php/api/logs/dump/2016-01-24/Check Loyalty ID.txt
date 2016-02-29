@@ -1,8 +1,0 @@
-[Sun Jan 24 12:58:54 2016]	[client: 180.191.142.81] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 13:01:48 2016]	[client: 180.191.142.81] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 16:02:35 2016]	[client: 180.191.138.167] [file: points.class.php] - Loyalty ID: [LOYjE18214bNgMWd]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 17:24:10 2016]	[client: 180.191.143.239] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 19:33:05 2016]	[client: 112.208.32.15] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 19:50:53 2016]	[client: 112.208.32.15] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 20:29:27 2016]	[client: 112.208.32.15] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
-[Sun Jan 24 20:32:32 2016]	[client: 112.208.32.15] [file: points.class.php] - Loyalty ID: [LOYGx19347vJ1Kxi]	 Status: [Success]	 Response : [Valid]
